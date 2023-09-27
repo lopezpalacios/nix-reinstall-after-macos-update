@@ -1,4 +1,3 @@
-```markdown
 # Nix Reinstaller Utility
 
 A simple shell script designed to assist in re-installing Nix on macOS, especially after an OS update.
@@ -44,4 +43,3 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
-```
