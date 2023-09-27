@@ -12,7 +12,7 @@ This repository contains a shell script to perform specific `mv` and `rm` operat
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/lopezpalacios/nix-reinstaller-utility.git
+   git clone https://github.com/lopezpalacios/nix-reinstall-after-macos-update.git
    cd nix-reinstaller-utility
    ```
 
