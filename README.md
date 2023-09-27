@@ -1,0 +1,1 @@
+# nix-reinstall-after-macos-update
